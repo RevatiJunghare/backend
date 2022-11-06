@@ -4,12 +4,12 @@
   "description": "mock server app",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js" 
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "abdul",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "^0.17.1"
   }
 }
