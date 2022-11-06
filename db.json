@@ -1,0 +1,89 @@
+{
+  "todo": [
+    {
+      "title": "Task-2",
+      "id": "1667054918910Task-2",
+      "status": true
+    },
+    {
+      "title": "Task-4",
+      "id": "1667054926302Task-4",
+      "status": true
+    }
+  ],
+  "user": [
+    {
+      "name": "Revati",
+      "batch": "web-20",
+      "course": "rct101",
+      "age": 22,
+      "mobile": 9172539302,
+      "score": 9,
+      "id": 1
+    },
+    {
+      "name": "anirban",
+      "batch": "web-18",
+      "course": "NEM101",
+      "age": "25",
+      "mobile": "9730694311",
+      "score": "5",
+      "id": 5
+    },
+    {
+      "name": "Pratksha",
+      "batch": "web-12",
+      "course": "js201",
+      "age": 22,
+      "mobile": 34343242344,
+      "score": 2,
+      "id": 7
+    },
+    {
+      "name": "ketaki",
+      "batch": "web-22",
+      "course": "js101",
+      "age": 20,
+      "mobile": 2323231223,
+      "score": 7,
+      "id": 8
+    },
+    {
+      "name": "samsung",
+      "batch": "web-20",
+      "course": "js101",
+      "age": 22,
+      "mobile": 9172539302,
+      "score": 5,
+      "id": 9
+    },
+    {
+      "name": "Revati",
+      "batch": "web-20",
+      "course": "js201",
+      "age": 22,
+      "mobile": 9172539302,
+      "score": 9,
+      "id": 10
+    },
+    {
+      "name": "Rina",
+      "batch": "refe",
+      "course": "rct101",
+      "age": 33,
+      "mobile": 9172539302,
+      "score": 7,
+      "id": 11
+    },
+    {
+      "name": "Raju",
+      "batch": "Web-23",
+      "course": "NEM-101",
+      "age": 23,
+      "mobile": 9172539302,
+      "score": 7,
+      "id": 12
+    }
+  ],
+  "product": []
+}
